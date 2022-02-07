@@ -1,4 +1,4 @@
-# PepperProject
+# Blackjack Program on Pepper Robot
 ![robot](https://s.hdnux.com/photos/65/51/57/14064619/4/1200x0.jpg)
 
 ## Overview
